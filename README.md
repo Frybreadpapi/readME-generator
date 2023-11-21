@@ -16,7 +16,8 @@ This application is going to help people who need help getting a README complete
 
 ## Credits
 
-N/A
+W3 schools, stack overflow, and some help from my classmates.
+(I know I was supposed to add a video of the working application but I was running into errors in the terminal.)
 
 ## License
 
